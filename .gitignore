@@ -6,9 +6,9 @@
 */Binaries
 */Build
 */DerivedDataCache
-*_BuildData.uasset
+*.uasset
 BuildingEscape/Content/StarterContent/
-
+*.iph
 ##########################
 # Visual Studuis Excludes
 #########################
